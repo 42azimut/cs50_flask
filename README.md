@@ -1,6 +1,4 @@
-# cs50_flask
-
-## cs50_flask 유튜브 강의  
+# cs50_flask 유튜브 강의  
 
 https://www.youtube.com/watch?v=EaOhKg5pKV8&t=3406s
 
